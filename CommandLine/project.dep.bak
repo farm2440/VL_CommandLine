@@ -1,0 +1,50 @@
+# DO NOT DELETE
+./obj/boot.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8ssc.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\lib\GLOBAL~1.INC\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./obj/main.o :  ./lib/CNT_10~1.H ./lib/LED_1.h ./lib/LED_2.h\
+   ./lib/LED_3.h ./lib/LED_4.h ./lib/PSoCAPI.h ./lib/PSOCGP~1.H\
+   ./lib/PWM_SRV.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/_const.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/limits.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/stdlib.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/string.h
+./lib/obj/cnt_10khz.o :  ./lib/CNT_10~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/cnt_10khzint.o :  ./lib/CNT_10~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/led_1.o :  ./lib/LED_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/led_2.o :  ./lib/LED_2.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/led_3.o :  ./lib/LED_3.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/led_4.o :  ./lib/LED_4.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc
+./lib/obj/pwm_srv.o :  ./lib/PWM_SRV.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/pwm_srvint.o :  ./lib/PWM_SRV.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/uart.o :  ./lib/UART.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/uartint.o :  ./lib/UART.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\work\PSoC\COMMAN~1\COMMAN~1\memory.inc
+./lib/obj/uartplus.o : 

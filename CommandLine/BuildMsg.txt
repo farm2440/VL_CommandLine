@@ -1,0 +1,52 @@
+Starting MAKE...
+creating project.mk 
+
+lib/cnt_10khz.asm
+
+lib/cnt_10khzint.asm
+
+lib/led_1.asm
+
+lib/led_2.asm
+
+lib/led_3.asm
+
+lib/led_4.asm
+
+lib/psocconfig.asm
+
+lib/psocconfigtbl.asm
+
+lib/pwm_srv.asm
+
+lib/pwm_srvint.asm
+
+lib/uart.asm
+
+lib/uartint.asm
+
+lib/uartplus.asm
+
+./boot.asm
+
+Linking..
+
+LMM info: area 'InterruptRAM' uses 3 bytes in SRAM bank 0
+
+LMM info: area 'UART_RAM' item of 16 bytes allocated in SRAM page 0
+
+LMM info: area 'virtual_registers' uses 8 bytes in SRAM page 0
+
+LMM info: area 'UART_RAM' item of 1 bytes allocated in SRAM page 0
+
+idata dump at output/CommandLine.idata
+
+  ROM 10% full. 3062 out of 32768 bytes used (does not include absolute areas).
+
+  RAM 2% full. 28 bytes used (does not include stack usage).
+
+Built with ICCM8C STD V7.05.00
+
+ 
+CommandLine - 0 error(s) 0 warning(s) 19:11:03
+
